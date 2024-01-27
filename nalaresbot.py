@@ -110,4 +110,4 @@ bot.add_cog(PetCare(bot))
 async def on_ready():
     print(f"{bot.user.name} v1.0.4h is connected!")
 
-bot.run("MTIwMDUxNzIxMDYxMTkyOTEzOA.G32n6P.Fzh3mQAmdI6e0QWa1yosR7aHo4iUtItKsKolhQ")
+bot.run("Bot Token")
